@@ -1,0 +1,21 @@
+[debug] [2021-09-07T22:31:31.280Z] ----------------------------------------------------------------------
+[debug] [2021-09-07T22:31:31.283Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Caine\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init -P cainenielsen-yt-chat-service
+[debug] [2021-09-07T22:31:31.284Z] CLI Version:   9.17.0
+[debug] [2021-09-07T22:31:31.284Z] Platform:      win32
+[debug] [2021-09-07T22:31:31.284Z] Node Version:  v14.15.0
+[debug] [2021-09-07T22:31:31.285Z] Time:          Tue Sep 07 2021 16:31:31 GMT-0600 (Mountain Daylight Time)
+[debug] [2021-09-07T22:31:31.285Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-09-07T22:31:31.314Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-09-07T22:31:31.315Z] > authorizing via signed-in user (caine.nielsen@caineandrebekah.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Users\Caine\Desktop\locals\youtube-google-chat
+
